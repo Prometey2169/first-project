@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # What's in a name? That which we call a rose
 # By any other name would smell as sweet.
-=======
-What's in a name? That which we call a rose
-By any other name would smell as sweet.
->>>>>>> 538b94853b1aa5971cc84cee04bd008a06561448
+
+
